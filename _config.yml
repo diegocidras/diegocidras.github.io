@@ -24,15 +24,15 @@ author:
   avatar           : "profile.png"
   name             : "Diego Cidrás"
   pronouns         : # example: "he/him"  
-  bio              : "Hi! I'm a geographer with a particular interest in understanding nature-culture interactions in the management of contentious landscapes."
-  location         : "Compostela, Galiza - Spain"
-  employer         : "University of Santiago de Compostela"
+  bio              : "Assistant Professor in Human Geography"
+  location         : "Santiago de Compostela"
+  employer         : "USC"
   uri              : # URL
   email            : "diego.cidras.fernandez@usc.gal" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=rAGIzoIAAAAJ&hl=es"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "cidras.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
