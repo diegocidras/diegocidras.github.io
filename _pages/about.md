@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio – Geographies of social change"
+title: "Bio. Geographies of social change"
 author_profile: true
 redirect_from: 
   - /about/
