@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Geographies of Social Change"
+title: "Geographies of social change"
 author_profile: true
 redirect_from: 
   - /about/
