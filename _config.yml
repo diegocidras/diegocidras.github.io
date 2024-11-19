@@ -21,7 +21,7 @@ repository               : "diegocidras/diegocidras.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "prob.png"
+  avatar           : "prob.jpg"
   name             : "Diego Cidrás"
   pronouns         : # "he/him"  
   bio              : "Asst. Prof. in Human Geography"
