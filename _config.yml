@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "DC"
+title                    : "Diego Cidrás"
 title_separator          : "-"
 name                     : &name "Diego Cidrás"
 description              : &description "Assistant Professor at the University of Santiago de Compostela"
@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Diego Cidrás"
-  pronouns         : # example: "he/him"  
-  bio              : "Assistant Professor in Human Geography"
+  pronouns         : "he/him"  
+  bio              : "Asst. Prof. in Human Geography"
   location         : "Santiago de Compostela"
   employer         : "USC"
   uri              : # URL
@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-4385-4642"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Diego-Cidras"
   scopus           : # URL
 
   # Repositories and software development
