@@ -11,4 +11,5 @@ Hi! I'm a geographer with a particular interest in understanding nature-culture 
 
 My interests extend to other areas of Geography, such as mobility, geopolitics, inequality, and international cooperation. I am also passionate about maps and open-source GIS. I have primarily carried out my [teaching](https://www.usc.gal/gl/departamento/xeografia/directorio/diego-cidras-fernandez-358206) duties at the University of Santiago de Compostela, where, during the 2024/2025 academic year, I am teaching undergraduate and master’s courses, including _Human Geography I_ and _II_ (G3053102, G3053107), _GIS for Regional Human Geography_ (G3052224), _Nature Conservation, Development, and Community Relations_ (MP0170203), and _Sustainable Urban Systems_ (P4241205).
 
-(page under development)
+
+**page under development**
