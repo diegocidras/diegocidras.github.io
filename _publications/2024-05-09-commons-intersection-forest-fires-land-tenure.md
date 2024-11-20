@@ -3,11 +3,11 @@ title: "The commons at the intersection of forest fires and land tenure: insight
 collection: publications
 category: manuscripts
 permalink: /publication/2024-05-09-commons-intersection-forest-fires-land-tenure
-excerpt: 'This research examines the relationship between traditional commons and forest fire prevention in Galicia (NW Spain), analyzing fire incidence across public, private, and common land. Findings highlight that while fire activity is more severe on common land due to rural depopulation and other variables, collective forest management offers significant potential for effective fire prevention and territorial resilience.'
+excerpt: ''
 date: 2024-05-09
 venue: 'Review of Agricultural, Food and Environmental Studies'
 paperurl: 'https://link.springer.com/article/10.1007/s41130-024-00219-8'
-citation: 'Cidrás, D., Lois González, R. The commons at the intersection of forest fires and land tenure: insights from Galicia (Northwestern Iberia). _Rev Agric Food Environ Stud_ (2024). https://doi.org/10.1007/s41130-024-00219-8'
+citation: 'Cidrás, D., Lois González, R. The commons at the intersection of forest fires and land tenure: insights from Galicia (Northwestern Iberia). Rev Agric Food Environ Stud (2024). https://doi.org/10.1007/s41130-024-00219-8'
 ---
 
 ## Abstract
