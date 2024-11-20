@@ -14,6 +14,6 @@ Awarded the Extraordinary Doctoral Prize in 2024, my [doctoral thesis](https://m
 My interests extend to other areas of Geography, such as mobility, geopolitics, inequality, and international cooperation. I am also passionate about maps and open-source GIS. I have primarily carried out my [teaching](https://www.usc.gal/gl/departamento/xeografia/directorio/diego-cidras-fernandez-358206) duties at the University of Santiago de Compostela, where, during the 2024/2025 academic year, I am teaching undergraduate and master’s courses, including _Human Geography I_ and _II_ (G3053102, G3053107), _GIS for Regional Human Geography_ (G3052224), _Nature Conservation, Development, and Community Relations_ (MP0170203), and _Sustainable Urban Systems_ (P4241205).
 
 ![Fieldwork](/images/osouto.jpg)
-_Fieldwork with 1st-year undergraduate students exploring a territorial conflict. The proposed construction of a wastewater treatment plant in a periurban Atlantic forest has sparked a dispute among local stakeholders, requiring resolution through planning and public participation. Novembre 2024._
+<small>_Fieldwork with 1st-year undergraduate students exploring a territorial conflict. The proposed construction of a wastewater treatment plant in a periurban Atlantic forest has sparked a dispute among local stakeholders, requiring resolution through planning and public participation. Following the field visit, we will develop a report for the local council. @ Santiago de Compostela, November 2024._</small>
 
 **page under development**
