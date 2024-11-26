@@ -1,7 +1,7 @@
 ---
 title: "Uprooting monocultures, re-rooting the commons: everyday struggles against eucalyptus tree plantations in Galicia"
 collection: publications
-category: journal articles
+category: books
 permalink: /publication/2024-11-11-uprooting-monocultures
 excerpt: ''
 date: 2024-11-11
