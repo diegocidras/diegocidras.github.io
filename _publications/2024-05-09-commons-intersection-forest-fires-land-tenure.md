@@ -7,7 +7,7 @@ excerpt: ''
 date: 2024-05-09
 venue: 'Review of Agricultural, Food and Environmental Studies'
 paperurl: 'https://link.springer.com/article/10.1007/s41130-024-00219-8'
-citation: 'Cidrás, D., & Lois González, R. C. (2024). The commons at the intersection of forest fires and land tenure: insights from Galicia (Northwestern Iberia). Review of Agricultural, Food and Environmental Studies, 1-21. https://doi.org/10.1007/s41130-024-00219-8'
+citation: 
 ---
 
 ## Abstract
