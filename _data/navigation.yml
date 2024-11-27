@@ -9,19 +9,19 @@ main:
     url: /publications/
 
  # - title: "Talks"
-    url: /talks/    
+  #  url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
     
  # - title: "Portfolio"
-    url: /portfolio/
+   # url: /portfolio/
         
   - title: "Media & Blog Posts"
     url: /year-archive/
     
  # - title: "CV"
-    url: /cv/
+  #  url: /cv/
     
  # - title: "Guide"
-    url: /markdown/
+  #  url: /markdown/
