@@ -2,7 +2,7 @@
 title: "The Segregation of the Nouveau Riche: A Metropolitan Issue — The Case of A Coruña"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-11-11-uprooting-monocultures
+permalink: /publication/2024-07-16-The-Segregation.md
 excerpt: ''
 date: 2024-07-16
 venue: 'Urban Change in the Iberian Peninsula: A 2000-2030 perspective'
