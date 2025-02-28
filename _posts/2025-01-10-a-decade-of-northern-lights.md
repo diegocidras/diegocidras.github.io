@@ -1,5 +1,5 @@
 ---
-title: 'a decade of Northern Lights'
+title: 'from the Velux window'
 date: 2025-01-10
 permalink: /year-archive/2025-01-10-a-decade-of-northern-lights.md
 ---
