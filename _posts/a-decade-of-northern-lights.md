@@ -1,6 +1,6 @@
 ---
 title: 'a decade of Northern Lights'
-date: 2024-01-15
+date: 2024-01-10
 permalink: /a-decade-of-northern-lights.md
 tags:
 ---
