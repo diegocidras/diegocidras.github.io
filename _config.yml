@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Geographer"
+title                    : "geographer"
 title_separator          : "-"
 name                     : &name "Diego Cidrás"
 description              : &description "Assistant Professor at the University of Santiago de Compostela"
