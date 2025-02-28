@@ -1,7 +1,7 @@
 ---
 title: 'a decade of Northern Lights'
 date: 2025-01-10
-permalink: /posts/2025-01-10-a-decade-of-northern-lights.md
+permalink: /year-archive/2025-01-10-a-decade-of-northern-lights.md
 ---
 
 ![Aurora Borealis](/images/IMG_0335(1).JPG)
