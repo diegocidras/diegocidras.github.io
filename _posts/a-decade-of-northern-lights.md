@@ -14,3 +14,5 @@ Life in Norway awakened in me interests I had barely explored, such as mountaine
 
 Back in Galicia, I maintained the habit of checking aurora forecasts. Because of that, on the evening of November 5, 2019, I became the lone enthusiast predicting a possible sighting in northern Iberia—one that, in the end, never materialized. Nearly ten years later, after countless false alarms, the northern lights have finally returned to these latitudes, thanks to the heightened solar activity at the peak of the current cycle. After missing an aurora display in the spring of 2024, on October 11, 2024, following a solar explosion in region AR3364, I documented an impressive pink aurora at 1:30 AM, visible to the naked eye. From the Velux window of our room, I watched in awe alongside my partner. Who would have thought, on that distant Norwegian night, that ten years later, I would be witnessing the northern lights dance over the skies of Compostela, this time with a child in my arms?
 
+(/images/IMG:0335(1).jpg)
+
