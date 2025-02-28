@@ -1,9 +1,7 @@
 ---
 title: 'a decade of Northern Lights'
-date: 2024-01-10
-permalink: /a-decade-of-northern-lights.md
-tags: 
-- Aurora
+date: 2025-01-10
+permalink: /2025-01-10-a-decade-of-northern-lights.md
 ---
 
 Ten years ago, in Bergen (Norway), I embarked on a journey that would shape my life. The Erasmus program was a definitive leap into adulthood, autonomy, and—above all—community. It also marked, for better or worse, the beginning of my academic path. Thanks to a program at the University of Bergen, I had the opportunity to take a field course in the Baltic States, where I was introduced to and practiced qualitative research methods in social geography. A decade later, I find myself working with the same theoretical coordinates that guided that journey, but at a more southerly latitude—back in Santiago.
