@@ -2,7 +2,7 @@
 title: "Los paisajes del eucalipto en Galicia"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-04-01-Paisajes-Eucalipto.md.
+permalink: /publication/2025-04-01-Paisajes-Eucalipto.md
 excerpt: ''
 date: 2025-04-01
 venue: 'El eucalipto en Galicia'
