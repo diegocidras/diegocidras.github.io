@@ -2,7 +2,7 @@
 title: "O novo plan forestal e a (des)consideración da paisaxe"
 collection: publications
 category: manuscripts
-permalink: /publication/22024-03-31-plan-forestal.md
+permalink: /publication/22024-03-31-plan-forestal
 excerpt: ''
 date: 2024-03-31
 venue: 'Crítica Urbana'
