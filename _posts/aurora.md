@@ -1,7 +1,7 @@
 ---
 title: 'a decade of Northern Lights'
 date: 2025-01-01
-permalink: /a-decade-of-northern-lights.md
+permalink: /a-decade-of-northern-lights/
 tags: 
 - Aurora
 ---
