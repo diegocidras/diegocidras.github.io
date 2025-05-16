@@ -2,7 +2,7 @@
 title: "The commons at the intersection of forest fires and land tenure: insights from Galicia (Northwestern Iberia)"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-05-09-commons-intersection-forest-fires-land-tenure.md
+permalink: /publication/2024-05-09-commons-intersection-forest-fires-land-tenure
 excerpt: ''
 date: 2024-05-09
 venue: 'Review of Agricultural, Food and Environmental Studies'
