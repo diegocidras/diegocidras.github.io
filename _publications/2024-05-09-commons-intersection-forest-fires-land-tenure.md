@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-05-09-commons-intersection-forest-fires-land-tenure
 excerpt: ''
-date: 2024-05-09
+date: 2025-12-01
 venue: 'Review of Agricultural, Food and Environmental Studies'
 paperurl: 'https://link.springer.com/article/10.1007/s41130-024-00219-8'
 citation: 
